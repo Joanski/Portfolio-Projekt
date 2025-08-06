@@ -1,4 +1,5 @@
-Projekttitel und kurze Beschreibung
+ESG & Financial Performance Data Analysis Project
+I am exploring the relationship between ESG metrics and financial KPIs across industries and regions.
 
 Data:
 ESG & Financial Performance Dataset from https://www.kaggle.com/datasets/shriyashjagtap/esg-and-financial-performance-dataset
